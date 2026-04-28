@@ -4,12 +4,12 @@ The use of a random news leveraging health-related content with high priority, u
 Final assessment: Malicious email
 
 ## 2. Email Metadata
-Subject: "The noise is almost completely gone"
-From (Display): Dr. Oz: Do this for tinnitus
-From (Address): alert.ohoea@naturespaints.com
-Sender: alert.ovwkj@quivifyc.allphanexushub.com
-Return-Path: alert.mmkgb@naturespaints.com
-Date: 09 April 2026
+- Subject: "The noise is almost completely gone"
+- From (Display): Dr. Oz: Do this for tinnitus
+- From (Address): alert.ohoea@naturespaints.com
+- Sender: alert.ovwkj@quivifyc.allphanexushub.com
+- Return-Path: alert.mmkgb@naturespaints.com
+- Date: 09 April 2026
 
 ## 3. Sender Analysis
 ### Observations
