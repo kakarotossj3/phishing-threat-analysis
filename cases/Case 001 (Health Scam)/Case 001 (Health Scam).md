@@ -1,7 +1,7 @@
 # Phishing Email Analysis – Case 001 (Health Scam)
 ## 1. Executive Summary
 The use of a random news leveraging health-related content with high priority, using a screenshot of a famous news channel/website to impersonate the victim to click on hyperlink.
-Final assessment: Malicious email
+<br>Final assessment: Malicious email
 
 ## 2. Email Metadata
 - Subject: "The noise is almost completely gone"
@@ -130,4 +130,5 @@ Email body content with tracking pixel mapped.
 
 ### Additional Evidence
 Delivery information supporting authentication.
+
 ![Alt Text](https://github.com/kakarotossj3/phishing-threat-analysis/blob/e79427211a6fb3795f23a4455ffc295865320f33/cases/Case%20001%20(Health%20Scam)/Evidences/deliveryinformation.png)  
