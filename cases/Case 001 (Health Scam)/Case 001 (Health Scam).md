@@ -14,8 +14,9 @@ The use of a random news leveraging health-related content with high priority, u
 ## 3. Sender Analysis
 ### Observations
 Multiple sender identities detected:
-•	naturespaints.com
-•	quivifyc.allphanexushub.com
+- naturespaints.com
+- quivifyc.allphanexushub.com
+  
 Suspicious domain naming pattern
 
 ### Authentication Results
