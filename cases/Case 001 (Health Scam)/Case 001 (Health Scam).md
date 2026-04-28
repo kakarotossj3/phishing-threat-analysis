@@ -108,23 +108,26 @@ Tracking pixel identified in the HTML source code.
 ![Alt Text](https://github.com/kakarotossj3/phishing-threat-analysis/blob/ed15fadb7ab3fa230f5916feee05e7cc301fd503/cases/Case%20001%20(Health%20Scam)/Evidences/email_attachment.png)
 
 ### Email Headers
- 
+![Alt Text](https://github.com/kakarotossj3/phishing-threat-analysis/blob/e79427211a6fb3795f23a4455ffc295865320f33/cases/Case%20001%20(Health%20Scam)/Evidences/email_header.png) 
 
 ### Malicious URL Analysis
 Looking into Virustotal, the suspicious URL was identified by three vendors as Malware/Malicious and one as Spam.
+![Alt Text](https://github.com/kakarotossj3/phishing-threat-analysis/blob/e79427211a6fb3795f23a4455ffc295865320f33/cases/Case%20001%20(Health%20Scam)/Evidences/virustotal1.png)
  
 Since its webpage has no content, it was not identified malicious code.
+
 Looking for the IP address 172.202.98.170, different subdomains was retrieve by DNS and most of them are malicious.
- 
+![Alt Text](https://github.com/kakarotossj3/phishing-threat-analysis/blob/e79427211a6fb3795f23a4455ffc295865320f33/cases/Case%20001%20(Health%20Scam)/Evidences/virustotal2.png) 
 
 Hybrid Analysis brings an attempt to open the webpage, but with no success. It classified the URL as Malicious with a score of 70/100.
- 
- 
+![Alt Text](https://github.com/kakarotossj3/phishing-threat-analysis/blob/e79427211a6fb3795f23a4455ffc295865320f33/cases/Case%20001%20(Health%20Scam)/Evidences/hybridanalysis1.png) 
+
+![Alt Text](https://github.com/kakarotossj3/phishing-threat-analysis/blob/e79427211a6fb3795f23a4455ffc295865320f33/cases/Case%20001%20(Health%20Scam)/Evidences/hybridanalysis2.png) 
 
 ### Attachment or Body Content Analysis
 Email body content with tracking pixel mapped.
- 
+![Alt Text](https://github.com/kakarotossj3/phishing-threat-analysis/blob/e79427211a6fb3795f23a4455ffc295865320f33/cases/Case%20001%20(Health%20Scam)/Evidences/emailbodycontent.png)  
 
 ### Additional Evidence
 Delivery information supporting authentication.
- 
+![Alt Text](https://github.com/kakarotossj3/phishing-threat-analysis/blob/e79427211a6fb3795f23a4455ffc295865320f33/cases/Case%20001%20(Health%20Scam)/Evidences/deliveryinformation.png)  
